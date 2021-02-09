@@ -14,7 +14,7 @@ public class JenkinsMonitor {
     public static void main(String[] args) throws Exception {
 
         String protocol = "http";
-        String host = "192.168.29.51";
+        String host = "192.168.1.3";
         int port = 8080;
         String usernName = "shubham";
         String password = ")yz$trazG5";
